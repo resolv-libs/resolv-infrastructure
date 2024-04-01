@@ -1,0 +1,5 @@
+apache-beam==2.54.*
+matplotlib==3.8.*
+resolv-data @ git+ssh://git@github.com/resolv-libs/resolv-data.git@main
+resolv-ml @ git+ssh://git@github.com/resolv-libs/resolv-ml.git@main
+resolv-mir @ git+ssh://git@github.com/resolv-libs/resolv-mir.git@main
